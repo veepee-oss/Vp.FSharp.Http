@@ -1,2 +1,2 @@
 # Vp.FSharp.Http
-Generic F# HttpClient Helpers
+`HttpClient` Helpers for F#
